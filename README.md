@@ -1,8 +1,8 @@
-RAG pipeline for RAG applications in healthcare
+# RAG pipeline for RAG applications in healthcare
 
 ## System architecture
 
-(images/system.img "RAG system architecture")
+![RAG system architecture](images/system.png "RAG system architecture")
 
 ## Install dependencies
 
