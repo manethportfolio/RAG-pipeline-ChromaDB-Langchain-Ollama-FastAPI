@@ -2,7 +2,7 @@
 
 ## System architecture
 
-![RAG system architecture](images/system.png "RAG system architecture")
+![RAG system architecture](https://raw.githubusercontent.com/your-username/your-repo/main/images/system.png)
 
 ## Install dependencies
 
